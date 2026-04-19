@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Banner de Franknico34" width="100%">
+</p>
 
-<!--
-**Franknico34/Franknico34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Franknico34 👋
 
-Here are some ideas to get you started:
+### 👾 Sobre mí
+- 🔭 Actualmente en DAW CFGS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
